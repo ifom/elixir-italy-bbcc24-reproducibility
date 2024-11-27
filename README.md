@@ -1,6 +1,10 @@
-# This is the course repository!
+# Course repository 
+Course **Software Environments, Notebooks and Containers**
+(for Bioinformatics and Computational Biology)
 
+This course was held in Napoli, on November 26th, 2024 in the context of [ELIXIR-IT Training Platform](https://elixir-iib-training.github.io/site/2024-11-26-Biocontainer)
 
+PDF slides are available for download: see [this file](bbcc2024_reproducibility-in-bioinformatics_IFOM-RCDS-unit_presentation.pdf)
 
 ## IMDB dataset
 Data in the imdb/ folder were obtained from the IMDB official data repository and further processed to be used as a quick interactive session in a Jupyter notebook. The original data were too big to be used directly and they have been reduces and cleaned. 
